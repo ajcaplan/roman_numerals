@@ -1,5 +1,5 @@
 ### This program is able to determine the Roman ###
-### numberals for numbers from 1 to 3999 inclusive. ###
+### numerals for numbers from 1 to 3999 inclusive. ###
 
 from tkinter import *
 
